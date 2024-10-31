@@ -16,4 +16,4 @@ We can ask the same thing about the Mayan number systems.
 
 
 
-## Ciao,
+## Ciao
