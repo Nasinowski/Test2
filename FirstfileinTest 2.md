@@ -12,7 +12,8 @@ This web site talks about it.
 
 
 No they don't have a zero
-This web site talks about it
+This![Screenshot 2024-12-17 130822](https://github.com/user-attachments/assets/e97905c7-8feb-4f9a-a8c1-03e4ada5a6e3)
+ web site talks about it
 
 https://hsm.stackexchange.com/questions/11312/why-didnt-the-roman-numeral-system-have-a-zero-digit-of-its-own
 
