@@ -10,6 +10,7 @@ I don't think thet have a zero.
 i can post some links to learn about it.
 This web site talks about it.
 
+![Screenshot 2024-12-17 132532](https://github.com/user-attachments/assets/0b0592cf-4c78-41a5-a35f-9655d27f0366)
 
 No they don't have a zero
 This![Screenshot 2024-12-17 130822](https://github.com/user-attachments/assets/e97905c7-8feb-4f9a-a8c1-03e4ada5a6e3)
